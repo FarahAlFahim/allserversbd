@@ -65,3 +65,9 @@ body {
     transform: translateY(-50%);
     bottom: initial;
 }
+
+#carouselButton {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
