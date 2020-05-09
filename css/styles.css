@@ -51,6 +51,15 @@ body {
     transform: translateY(-50%);
     bottom: initial; }
 
+.modal-header {
+  background: #512DA8;
+  color: floralwhite; }
+  .modal-header .close {
+    color: floralwhite; }
+
+.modal-body {
+  background: #D1C4E9; }
+
 #carouselButton {
   right: 0px;
   position: absolute;
